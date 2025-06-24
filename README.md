@@ -1,154 +1,112 @@
-## Terms and Conditions
+## Hüküm ve Koşullar
 
-Last updated: June 20, 2025
+**Son güncelleme:** 20 Haziran 2025
 
-Please read these terms and conditions carefully before using Our Service.
+Lütfen Hizmetimizi kullanmadan önce bu hüküm ve koşulları dikkatlice okuyunuz.
 
-## Interpretation and Definitions
+## Yorum ve Tanımlar
 
-### Interpretation
+### Yorum
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+İlk harfi büyük yazılan kelimeler, aşağıda belirtilen koşullar altında tanımlanan anlamlara sahiptir. Aşağıdaki tanımlar, ister tekil ister çoğul şekilde kullanılsın, aynı anlamı ifade eder.
 
-### Definitions
+### Tanımlar
 
-For the purposes of these Terms and Conditions:
+Bu Hüküm ve Koşullar çerçevesinde:
 
-- __Application__ means the software program provided by the Company downloaded by You on any electronic device, named Fon360
-- __Application Store__ means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
-- __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+* **Uygulama**, Şirket tarafından sağlanan ve herhangi bir elektronik cihaza indirilen, *Fon360* adlı yazılım programını ifade eder.
+* **Uygulama Mağazası**, Uygulamanın indirildiği, Apple Inc. tarafından işletilen (Apple App Store) veya Google Inc. tarafından işletilen (Google Play Store) dijital dağıtım hizmetini ifade eder.
+* **Bağlı Kuruluş**, bir tarafı kontrol eden, onun tarafından kontrol edilen veya ortak kontrol altında olan bir kuruluşu ifade eder. “Kontrol”, oy kullanma hakkı olan hisselerin %50’sinden fazlasına sahip olmayı ifade eder.
+* **Ülke**, Türkiye’yi ifade eder.
+* **Şirket** (bu Sözleşmede "Şirket", "Biz", "Bize" veya "Bizim" olarak anılır), *Fon360*’ı ifade eder.
+* **Cihaz**, bilgisayar, cep telefonu veya dijital tablet gibi Hizmete erişebilen herhangi bir cihazı ifade eder.
+* **Hizmet**, Uygulamayı ifade eder.
+* **Hüküm ve Koşullar** (kısaca "Koşullar"), Hizmetin kullanımıyla ilgili olarak Sizinle Şirket arasında yapılan tam sözleşmeyi ifade eder. Bu Hüküm ve Koşullar sözleşmesi [Ücretsiz Hüküm ve Koşullar Oluşturucu](https://www.freeprivacypolicy.com/free-terms-and-conditions-generator/) yardımıyla oluşturulmuştur.
+* **Üçüncü Taraf Sosyal Medya Hizmeti**, Hizmet tarafından görüntülenebilen, dahil edilebilen veya sağlanabilen üçüncü bir tarafça sunulan hizmet veya içeriği (veri, bilgi, ürün veya hizmetler dahil) ifade eder.
+* **Siz**, Hizmete erişen veya Hizmeti kullanan bireyi veya birey adına hareket eden şirketi ya da diğer tüzel kişiliği ifade eder.
 
-- __Country__ refers to:  Turkey
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Fon360.
+## Kabul
 
-- __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+Bu Hüküm ve Koşullar, bu Hizmetin kullanımını düzenleyen ve Sizinle Şirket arasında yapılan sözleşmeyi oluşturur. Tüm kullanıcıların Hizmeti kullanımıyla ilgili hak ve yükümlülüklerini belirler.
 
+Hizmete erişiminiz ve kullanımınız, bu Koşulları kabul etmenize ve onlara uymanıza bağlıdır. Bu Koşullar, Hizmete erişen veya kullanan tüm ziyaretçiler, kullanıcılar ve diğer kişiler için geçerlidir.
 
+Hizmete erişerek veya kullanarak bu Koşullara bağlı kalmayı kabul etmiş olursunuz. Koşulların herhangi bir bölümünü kabul etmiyorsanız Hizmete erişmemeniz gerekir.
 
+18 yaşından büyük olduğunuzu beyan edersiniz. Şirket, 18 yaşından küçüklerin Hizmeti kullanmasına izin vermez.
 
+Hizmete erişiminiz ve kullanımınız ayrıca Şirketin Gizlilik Politikası’nı kabul etmenize ve ona uymanıza bağlıdır. Gizlilik Politikamız, Uygulamayı veya Web Sitesini kullanırken kişisel bilgilerinizin toplanması, kullanılması ve açıklanmasına ilişkin politikamızı açıklar ve gizlilik haklarınız hakkında sizi bilgilendirir. Lütfen Hizmetimizi kullanmadan önce Gizlilik Politikamızı dikkatlice okuyunuz.
 
+## Diğer Web Sitelerine Bağlantılar
 
+Hizmetimiz, Şirket tarafından sahip olunmayan veya kontrol edilmeyen üçüncü taraf web sitelerine veya hizmetlere bağlantılar içerebilir.
 
-- __Service__ refers to the Application.
+Şirketin bu tür üçüncü taraf web sitelerinin veya hizmetlerinin içeriği, gizlilik politikaları veya uygulamaları üzerinde herhangi bir kontrolü yoktur ve sorumluluk kabul etmez. Şirket, bu tür içeriklere, mallara veya hizmetlere güvenerek veya bunları kullanarak oluşabilecek doğrudan ya da dolaylı herhangi bir zarar veya kayıptan sorumlu tutulamaz.
 
+Ziyaret ettiğiniz herhangi bir üçüncü taraf web sitesinin veya hizmetinin hüküm ve koşullarını ve gizlilik politikalarını okumanızı şiddetle tavsiye ederiz.
 
-- __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Free Terms and Conditions Generator](https://www.freeprivacypolicy.com/free-terms-and-conditions-generator/).
-- __Third-party Social Media Service__ means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+## Fesih
 
-- __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+Bu Koşulları ihlal etmeniz dahil olmak üzere herhangi bir nedenle, önceden haber vermeksizin veya sorumluluk üstlenmeden Hizmete erişiminizi derhal askıya alabilir veya sonlandırabiliriz.
 
-## Acknowledgment
+Fesih durumunda Hizmeti kullanma hakkınız derhal sona erecektir.
 
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+## Sorumluluğun Sınırlandırılması
 
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+Uğrayabileceğiniz zararlara bakılmaksızın, Şirketin ve tedarikçilerinin tüm sorumluluğu, Hizmet aracılığıyla ödediğiniz toplam tutarla veya hiçbir ödeme yapılmadıysa 100 Amerikan Doları ile sınırlıdır.
 
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+Geçerli yasaların izin verdiği azami ölçüde, Şirket veya tedarikçileri, kar kaybı, veri kaybı, ticari kesinti, kişisel zarar veya gizlilik kaybı gibi doğrudan olmayan, dolaylı ya da tesadüfi zararlardan sorumlu değildir.
 
+Bazı bölgelerde zımni garantilerin dışlanmasına veya dolaylı zararlar için sorumluluğun sınırlandırılmasına izin verilmez. Bu durumda, sorumluluk yasal olarak izin verilen en yüksek düzeyle sınırlı olacaktır.
 
-You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+## "OLDUĞU GİBİ" ve "MEVCUT OLDUĞU ŞEKİLDE" Feragatnamesi
 
+Hizmet, tüm kusurlarıyla birlikte “OLDUĞU GİBİ” ve “MEVCUT OLDUĞU ŞEKİLDE” sunulmaktadır ve hiçbir garanti verilmemektedir. Geçerli yasanın izin verdiği azami ölçüde, Şirket ve bağlı kuruluşları, lisans verenleri ve hizmet sağlayıcıları, Hizmetle ilgili tüm açık, zımni veya yasal garantileri açıkça reddeder.
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+Şirket, Hizmetin gereksinimlerinizi karşılayacağını, kesintisiz çalışacağını, belirli performans ve güvenilirlik standartlarını sağlayacağını veya hatasız olacağını garanti etmez.
 
+Bazı bölgelerde bazı garanti türlerinin dışlanmasına izin verilmez. Bu nedenle, yukarıdaki istisnaların bazıları size uygulanmayabilir. Ancak bu durumda dahi yasal olarak uygulanabilecek en geniş ölçüde geçerli olacaktır.
 
+## Geçerli Hukuk
 
+Bu Koşullar ve Hizmetin kullanımı, Türkiye Cumhuriyeti yasalarına tabidir. Uygulamanın kullanımı yerel, bölgesel, ulusal veya uluslararası başka yasalara da tabi olabilir.
 
+## Uyuşmazlıkların Çözümü
 
+Hizmetle ilgili herhangi bir endişeniz veya uyuşmazlığınız varsa, öncelikle Şirket ile iletişime geçerek bu durumu gayriresmî şekilde çözmeyi kabul edersiniz.
 
+## Avrupa Birliği (AB) Kullanıcıları İçin
 
+AB’de ikamet eden bir tüketiciyseniz, ikamet ettiğiniz ülkenin zorunlu yasal hükümlerinden yararlanırsınız.
 
+## Amerika Birleşik Devletleri Yasal Uygunluk
 
+Aşağıdakileri beyan ve garanti edersiniz:
+(i) ABD hükümetinin ambargo uyguladığı bir ülkede bulunmuyorsunuz veya "terörü destekleyen" ülke olarak tanımlanan bir bölgede yaşamıyorsunuz.
+(ii) ABD hükümeti tarafından yasaklı kişi veya kuruluş listesinde yer almıyorsunuz.
 
+## Bölünebilirlik ve Feragat
 
+### Bölünebilirlik
 
+Bu Koşullardan herhangi biri geçersiz veya uygulanamaz bulunursa, bu madde geçerli yasalar doğrultusunda amaçlarına ulaşacak şekilde değiştirilecek ve yorumlanacaktır. Diğer maddeler geçerliliğini koruyacaktır.
 
+### Feragat
 
+Burada aksi belirtilmediği sürece, herhangi bir hakkın kullanılmaması veya yükümlülüğün yerine getirilmemesi, bu hakkın daha sonra kullanılmasını engellemez ve herhangi bir ihlalin feragat edilmesi, sonraki ihlallerin de feragat edildiği anlamına gelmez.
 
+## Çeviri Yorumlaması
 
+Bu Hüküm ve Koşullar size farklı dillerde sunulmuş olabilir. Bir uyuşmazlık durumunda İngilizce metin esas alınacaktır.
 
+## Hüküm ve Koşullardaki Değişiklikler
 
+Bu Koşulları dilediğimiz zaman tek taraflı olarak değiştirme veya yenileme hakkımız saklıdır. Önemli değişikliklerde, en az 30 gün önceden bildirimde bulunmak için makul çaba göstereceğiz. Değişikliğin ne ölçüde önemli olduğu yalnızca bizim takdirimize bağlıdır.
 
-## Links to Other Websites
+Güncellenmiş Koşullar yürürlüğe girdikten sonra Hizmeti kullanmaya devam ederseniz, yeni koşulları kabul etmiş sayılırsınız. Yeni koşulları kabul etmiyorsanız Hizmeti kullanmayı durdurmalısınız.
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+## Bizimle İletişime Geçin
 
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+Bu Hüküm ve Koşullarla ilgili herhangi bir sorunuz varsa bizimle şu adresten iletişime geçebilirsiniz:
 
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
-
-## Termination
-
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
-
-Upon termination, Your right to use the Service will cease immediately.
-
-
-## Limitation of Liability
-
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
-
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
-
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
-
-## "AS IS" and "AS AVAILABLE" Disclaimer
-
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
-
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
-
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
-
-## Governing Law
-
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
-
-## Disputes Resolution
-
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
-
-
-## For European Union (EU) Users
-
-If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which You are resident.
-
-
-
-
-
-## United States Legal Compliance
-
-You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
-
-
-## Severability and Waiver
-
-### Severability
-
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
-
-### Waiver
-
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not affect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
-
-## Translation Interpretation
-
-These Terms and Conditions may have been translated if We have made them available to You on our Service.
-You agree that the original English text shall prevail in the case of a dispute.
-
-## Changes to These Terms and Conditions
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
-## Contact Us
-
-If you have any questions about these Terms and Conditions, You can contact us:
-
-
-
-
-
-- By mail: Turkey
+* **Posta yoluyla:** Türkiye
